@@ -6,7 +6,7 @@
 # FARHAN MUALIF_5210411219
 
 class Operator:
-    def _init_(self,x,y):
+    def __init__(self,x,y):
         self.x = x
         self.y = y
 
