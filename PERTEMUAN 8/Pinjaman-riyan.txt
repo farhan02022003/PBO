@@ -1,7 +1,0 @@
-               Perpustakaan HMTI
-                   Id peminjam: 123
-                   Dipinjam oleh: riyan to
-    Tanggal: 2022-04-19    Waktu:07:54:56.395790
-
-S.N. 		 Judul buku 	      Pengarang
-1. 		Ayat-Ayat Cinta 		   Habiburrahman El-Shirazy 
