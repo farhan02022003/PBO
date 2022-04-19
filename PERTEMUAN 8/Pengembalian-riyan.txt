@@ -1,0 +1,8 @@
+                Perpustakaan HMTI 
+                    Id peminjam: 123
+                   Dikembalikan oleh: riyan
+    Tanggal: 2022-04-19    Waktu:08:07:10.650279
+
+S.N.		Judul Buku		Total
+3		Ayat-Ayat Cinta 		Rp100
+					Total: Rp100.0

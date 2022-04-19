@@ -1,0 +1,8 @@
+Harry Potter  , Jk Rowling ,17,Rp100
+skar Pelangi , Andrea Hirata ,22,Rp100
+Ayat-Ayat Cinta , Habiburrahman El-Shirazy ,31,Rp100
+Sokola Rimba , Butet Manurung , 18 ,Rp100
+5cm , Donny Dhirgantoro ,16,Rp100
+Koala Kumal , Raditya Dika ,11,Rp100
+b Primbon , Ki Joko Bodo , 20 ,Rp100
+Mbah Nun Bertutur , cak nun , 12Rp200
